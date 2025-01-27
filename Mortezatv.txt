@@ -17,3 +17,17 @@ ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@23.157.40.87:7002#%F0%9F%92%BBTelegram
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.236.131.196:2222?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%92%BBTelegram%3A+%40mortezatv
 trojan://telegram-id-privatevpns@51.20.205.194:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%92%BBTelegram%3A+%40mortezatv
 trojan://telegram-id-privatevpns@35.181.102.172:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%92%BBTelegram%3A+%40mortezatv
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.157:8080#%F0%9F%92%BBTelegram%3A+%40mortezatv
+vless://1d86846c-5a27-43c8-8981-57bb75c82195@185.153.183.104:3237?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%92%BBTelegram%3A+%40mortezatv
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@69.50.95.115:8091#%F0%9F%92%BBTelegram%3A+%40mortezatv
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@23.157.40.87:8091#%F0%9F%92%BBTelegram%3A+%40mortezatv
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVUzR0c2tKYVlTdEJQVUt2Y05Wa2YwUFZoWGJzQUdDTnZyaGJmWnlidE94OXUyY0Y=@103.174.86.114:51348#%F0%9F%92%BBTelegram%3A+%40mortezatv
+trojan://C9zSyneYN7Rl3K38qxu5y3axI82CaEXZ0SwjZFplDpYaTcOABDDOC6SeF4R3Ag@154.17.26.150:28331?security=tls&headerType=none&type=tcp&sni=deliver.missionsec.io#%F0%9F%92%BBTelegram%3A+%40mortezatv
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@23.157.40.95:8881#%F0%9F%92%BBTelegram%3A+%40mortezatv
+hysteria2://e3f4729d-2bdf-4326-a2a7-c8678da4121c@107.149.212.189:47085?security=tls&insecure=1&sni=www.bing.com#%F0%9F%92%BBTelegram%3A+%40mortezatv
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@67.220.95.102:8091#%F0%9F%92%BBTelegram%3A+%40mortezatv
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.181:8080#%F0%9F%92%BBTelegram%3A+%40mortezatv
+vmess://eyJhZGQiOiIxMTguMTkzLjM4LjE3MyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJmMTFjZjhmZi04OWIzLTRjNGMtZmRmOC1iNDcxMTFkODUyZDgiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjIxMDY2IiwicHMiOiLwn5K7VGVsZWdyYW06IEBtb3J0ZXphdHYiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMmhoNVNQY2ZzZzUwOTdDTkFNWmkx@77.83.246.74:443#%F0%9F%92%BBTelegram%3A+%40mortezatv
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@158.51.123.253:5003#%F0%9F%92%BBTelegram%3A+%40mortezatv
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.107.226.238:2376#%F0%9F%92%BBTelegram%3A+%40mortezatv
