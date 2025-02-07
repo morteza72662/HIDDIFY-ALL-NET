@@ -42,3 +42,9 @@ vless://79eea6c4-75f9-4fa3-95f2-fc86df949c64@139.59.204.182:4793?mode=gun&securi
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@51.77.53.200:4444#%F0%9F%92%BBTelegram%3A+%40mortezatv+%F0%9F%87%B2%F0%9F%87%A8
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@54.36.174.181:5004#%F0%9F%92%BBTelegram%3A+%40mortezatv+%F0%9F%87%AB%F0%9F%87%B7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8080#%F0%9F%92%BBTelegram%3A+%40mortezatv+%F0%9F%87%B3%F0%9F%87%B1
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.249.41:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#%F0%9F%92%BBTelegram%3A+%40mortezatv
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.21.181:443?path=%2F&security=tls&encryption=none&host=a.xn--i-sx6a60i.us.kg&type=ws&sni=a.xn--i-sx6a60i.us.kg#%F0%9F%92%BBTelegram%3A+%40mortezatv
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.26.10.197:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=a.xn--i-sx6a60i.us.kg&type=ws&sni=a.xn--i-sx6a60i.us.kg#%F0%9F%92%BBTelegram%3A+%40mortezatv
+vless://42f36835-730c-4ecc-9daf-20121ae7ba47@104.24.207.192:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=gozargah.validbv7996.ir&fp=random&type=ws&sni=gozargah.validbv7996.ir#%F0%9F%92%BBTelegram%3A+%40mortezatv
+vless://bac1fe89-0371-4e52-e8bb-2df1b3941ce6@49.12.200.119:6666?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy#%F0%9F%92%BBTelegram%3A+%40mortezatv
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@198.41.209.27:80?path=%2Ftelegram-_-_-_-_-__-free_shekan-_-_-_-%2F%3Fed%3D2048&security=none&encryption=none&host=a.mifeng.us.kg&type=ws#%F0%9F%92%BBTelegram%3A+%40mortezatv
